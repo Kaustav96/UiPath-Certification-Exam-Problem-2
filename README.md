@@ -23,9 +23,7 @@ Constraints to follow in the development, using the REFrameWork:
 6. Populate KillAllProcesses.xaml from the Framework folder with killing the process used.
 7. Populate the Process.xaml file with the following actions: Web scraping, Filtering and Appending to Excel.
 
-Important Note: Don't use external file references, outside of the project folder (including Orchestrator Assets). Place all the used files within the project folder, zip that folder and upload it to the UiPath Certification Platform.
 
-Zip ALL the used workflow files AND the output Excel file. Then upload the .zip file to the UiPath Certification Platform.
 
 Good luck!
 
